@@ -2,4 +2,5 @@
 ubuntu
 
 sudo nano .bashrc
+
 lxterminal 
