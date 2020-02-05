@@ -1,0 +1,2 @@
+# Auto-Terminal-ON
+ubuntu
